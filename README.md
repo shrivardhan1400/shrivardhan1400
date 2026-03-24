@@ -22,3 +22,6 @@ I'm currently Student<br>Vardhaman  College Of Engineering<br>I'm looking for Co
 [![](https://visitcount.itsvg.in/api?id=shrivardhan1400&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/shrivardhan1400/shrivardhan1400/blob/output/github-contribution-grid-snake.svg)
