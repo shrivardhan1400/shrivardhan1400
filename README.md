@@ -133,7 +133,12 @@ I'm currently Student<br>Vardhaman  College Of Engineering<br>I'm looking for Co
 
 
 
-
+<div align="center">
+  <h3>⚡ Activity Graph</h3>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vardhaman2005&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
+  
+</div>
 
 
 
